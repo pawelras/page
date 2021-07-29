@@ -1,0 +1,42 @@
+h {
+    font-family: Ubuntu;
+}
+
+header {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+        padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(136, 209, 202);
+}
+
+main {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+.headings {
+    text-align: center;
+}
+
+.tables {
+    border: solid rgb(66, 161, 150) 3px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.tableHeads {
+    text-align: center;
+    background-color: rgb(184, 230, 225);
+    border-bottom: solid 1px;
+}
+
+td {
+    border-bottom: solid 1px;
+}
